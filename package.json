@@ -13,7 +13,7 @@
   "keywords": [],
   "description": "",
   "dependencies": {
-    "ethers": "^5.4.3",
-    "run-func": "^1.0.5"
+    "ethers": "^5.4.1",
+    "run-func": "^1.0.3"
   }
 }
