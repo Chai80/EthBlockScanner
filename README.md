@@ -1,4 +1,4 @@
 # EthBlockScanner
 
-Old EthBlockScanner Completed Chainshot Sep 2021
+Old EthBlockScanner Completed Chainshot Sep 2021 - potentially old rendition
 
